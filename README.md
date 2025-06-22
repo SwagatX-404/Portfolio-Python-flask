@@ -1,1 +1,1 @@
-this is a simple portfolio using python flask 😍
+This is a simple portfolio using python flask 😍
